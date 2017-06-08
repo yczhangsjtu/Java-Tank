@@ -1,3 +1,4 @@
+package io.github.yczhangsjtu.tank;
 import java.awt.*;
 /**
  * 爆炸类

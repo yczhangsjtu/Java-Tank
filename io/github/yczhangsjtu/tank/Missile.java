@@ -1,3 +1,4 @@
+package io.github.yczhangsjtu.tank;
 import java.awt.*;
 import java.awt.Event.*;
 import java.awt.event.KeyEvent;
